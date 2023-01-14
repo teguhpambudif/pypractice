@@ -1,0 +1,10 @@
+{
+    "name" : "Teguh",
+    "phone" : {
+        "type" : "intl",
+        "number" : "+62 6969 6969 69"
+    },
+    "email" : {
+        "val" : "belajarjson@json.com"
+    }
+}
